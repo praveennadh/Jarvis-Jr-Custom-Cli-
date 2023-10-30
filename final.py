@@ -2,7 +2,7 @@ import tkinter
 import subprocess
 import openai
 
-api_key = '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'
+api_key = 'YOUR_API_KEY'
 
 
 class CLIWindow(tkinter.Tk):
